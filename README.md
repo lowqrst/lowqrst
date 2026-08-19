@@ -30,10 +30,6 @@ My goal is to grow into a strong engineer capable of building large-scale, compl
 
 ## Connect with Me
 
-<p align="left">
-  <a href="https://t.me/Nazarbayev_001">
-    <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="Telegram" />
-  </a>
   <a href="www.linkedin.com/in/nursultan-tleukhanov">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
