@@ -1,0 +1,236 @@
+{
+ "key": "3a8b97df",
+ "stars": 1,
+ "contributions": 66,
+ "repos": 11,
+ "followers": 5,
+ "languages": [
+  [
+   "TypeScript",
+   102385
+  ],
+  [
+   "Python",
+   85354
+  ],
+  [
+   "Go",
+   75075
+  ],
+  [
+   "HTML",
+   17542
+  ],
+  [
+   "CSS",
+   15887
+  ],
+  [
+   "JavaScript",
+   13003
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 9,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "coding-guide-skill",
+   "url": "https://github.com/lowqrst/coding-guide-skill",
+   "text": "Guided Mastery is an Agent Skill for Codex and Claude that helps students complete Tomorrow School assignments independently through lessons, mini-tasks, hints, code review, debugging, and defense practice.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Loan-Calculator-Go-",
+   "url": "https://github.com/lowqrst/Loan-Calculator-Go-",
+   "text": "Personal finances are an essential part of life. Sometimes, you need some extra money and decide to take a loan, or you want to buy a house using a mortgage. To make an informed decision, you need to be able to calculate different financial parameters. Let’s develop a program that can help us with that!",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Simple-Chat-Bot-Go",
+   "url": "https://github.com/lowqrst/Simple-Chat-Bot-Go",
+   "text": "Digital personal assistants help people to drive cars, plan their day, buy something online. In a sense, they are simplified versions of artificial intelligence with whom you can talk.  In this project, you will develop step by step a simple bot that will help you study programming.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "My-First-Project-With-Go-hyperskill-",
+   "url": "https://github.com/lowqrst/My-First-Project-With-Go-hyperskill-",
+   "text": "Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "go-reloaded",
+   "url": "https://github.com/lowqrst/go-reloaded",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "ASCII-Art_Web",
+   "url": "https://github.com/lowqrst/ASCII-Art_Web",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "lowqrst",
+   "url": "https://github.com/lowqrst/lowqrst",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "saqbol",
+   "url": "https://github.com/lowqrst/saqbol",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "test",
+   "url": "https://github.com/lowqrst/test",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Kok-Aspan-Travel",
+   "url": "https://github.com/lowqrst/Kok-Aspan-Travel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "tender-iq-hackathon",
+   "url": "https://github.com/lowqrst/tender-iq-hackathon",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
