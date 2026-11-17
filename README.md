@@ -1,39 +1,21 @@
-![Header](https://github.com/lowqrst/lowqrst/blob/main/assets/banner.jpg)
+<div align="center">
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Nursultan Tleukhanov"></picture>
 
-## Hello, I'm Nursultan (～﹃～)~zZ
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-I'm a second-year Cybersecurity student at Astana IT University  
-and a student at Tomorrow School.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-I'm a 19-year-old developer and cybersecurity student with big ambitions.
+<a href="https://github.com/lowqrst/ASCII-Art_Web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ascii-art-web-dark.svg"><img src="assets/project-ascii-art-web-light.svg" width="49%" alt="ASCII-Art_Web"></picture></a>&nbsp;<a href="https://github.com/lowqrst/go-reloaded"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-go-reloaded-dark.svg"><img src="assets/project-go-reloaded-light.svg" width="49%" alt="go-reloaded"></picture></a>
 
-I enjoy exploring how systems work, building things from scratch, and challenging myself with increasingly complex problems.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-My goal is to grow into a strong engineer capable of building large-scale, complex, and impactful projects.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-## Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-**Languages**
+<a href="https://metawka.github.io/expressive-profile/?from=lowqrst"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,js,jetbrains" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-## Connect with Me
-
-  <a href="www.linkedin.com/in/nursultan-tleukhanov">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="tleuhanovnrsltan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-</p>
+</div>
