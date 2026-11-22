@@ -1,10 +1,14 @@
 {
- "key": "730c8904",
+ "key": "99ed75bd",
  "stars": 1,
- "contributions": 68,
- "repos": 11,
+ "contributions": 74,
+ "repos": 12,
  "followers": 6,
  "languages": [
+  [
+   "Go",
+   142606
+  ],
   [
    "TypeScript",
    102385
@@ -14,20 +18,16 @@
    85354
   ],
   [
-   "Go",
-   75075
+   "CSS",
+   49010
   ],
   [
    "HTML",
-   17542
-  ],
-  [
-   "CSS",
-   15887
+   46011
   ],
   [
    "JavaScript",
-   13003
+   16885
   ]
  ],
  "days": [
@@ -58,7 +58,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 13,
     "today": false
    },
@@ -107,7 +107,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 2,
     "day": 22,
     "today": true
    },
@@ -120,10 +120,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "tour-track",
+   "url": "https://github.com/lowqrst/tour-track",
+   "text": "Music artists catalog with concert geography and activity classification",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  }
+ ],
  "all": [
   {
    "name": "coding-guide-skill",
@@ -132,6 +142,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "tour-track",
+   "url": "https://github.com/lowqrst/tour-track",
+   "text": "Music artists catalog with concert geography and activity classification",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
    "topics": []
   },
   {
